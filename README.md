@@ -25,7 +25,7 @@ Over 68 million data of school donation in USA is analysied and visualized in Pi
 
 5. How mant different project types exists ? What is the total donation amount for each of them ?
 
-hint: plotly library doesnt't show in github so the missing plot will be in screenshots folder. 
+**hint**: plotly library doesnt't show in github so the missing plot will be in screenshots folder. 
 
 
 ## Dependencies
