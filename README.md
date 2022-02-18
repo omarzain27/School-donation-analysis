@@ -15,15 +15,15 @@ Over 68 million data of school donation in USA is analysied and visualized in Pi
 ## Project overview
 68 million data is analysed to answers question like:
 
-1.which 10 states have the most number of school that opened projects to gather donations ?
+1. which 10 states have the most number of school that opened projects to gather donations ?
 
-2.what are the top 10 states in which schools gathered most amount of AVERAGE donation for their projects?
+2. what are the top 10 states in which schools gathered most amount of AVERAGE donation for their projects?
 
-3.Analyse the Maximum , Minimum , mean , meadian, 25 amd 75% percentiles of donations?
+3. Analyse the Maximum , Minimum , mean , meadian, 25 amd 75% percentiles of donations?
 
-4.In which states there are more donation done by donors?
+4. In which states there are more donation done by donors?
 
-5.How mant different project types exists ? What is the total donation amount for each of them ?
+5. How mant different project types exists ? What is the total donation amount for each of them ?
 
 hint: plotly library doesnt't show in github so the missing plot will be in screenshots folder. 
 
